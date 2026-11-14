@@ -1,1 +1,2 @@
-# TestRepoo
+# House Price Regression
+This is a python project  that predicts house prices using the California housing dataset. I explored the data first and noticed prices were cappedat $500,000. I split it into training and test sets, trained a linear regression model with scikit-learn, and got an R-squared of about 0.5. Adding location data improved it to about 0.6. It taught me the full workflow: exploring data, training a model, and judging honestly how well it works.
